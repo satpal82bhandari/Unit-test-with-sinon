@@ -1,0 +1,4 @@
+{
+  "level": "ALL",
+  "comments": "possible level are OFF,ERROR,INFO,DEBUG,ALL"
+}
